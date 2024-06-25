@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, Mi nombre es Azul </h1>
 <h3 align="center">✨Este es mi portfolio personal donde encontraras varios projectos en los que pruebo aplicaciones de software (front & back) 🌐!</h3>
 
-- 🔭 En este proyecto utilizo una demo app tipo e-commerce [Presta Shop](https://demo.prestashop.com/#/en/front)
-
 - 🌱 Actualmente me encuentro instruyendome en ** testing y aseguramiento de calidad**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Azulheynen](mi perfil de github)
