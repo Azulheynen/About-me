@@ -1,13 +1,13 @@
-<h1 align="center">Hola 👋, soy azul</h1>
+<h1 align="center">Hola 👋, Mi nombre es Azul </h1>
 <h3 align="center">✨Este es mi portfolio personal donde encontraras varios projectos en los que pruebo aplicaciones de software (front & back) 🌐!</h3>
 
-- 🔭 I’m currently working on [Presta Shop](https://demo.prestashop.com/#/en/front)
+- 🔭 En este proyecto utilizo una demo app tipo e-commerce [Presta Shop](https://demo.prestashop.com/#/en/front)
 
-- 🌱 I’m currently learning ** testing y aseguramiento de calidad**
+- 🌱 Actualmente me encuentro instruyendome en ** testing y aseguramiento de calidad**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Azulheynen](mi perfil de github)
 
-- 📫 How to reach me **azulheynen@gmail.com**
+- 📫 Donde puedes contactarme? **azulheynen@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
